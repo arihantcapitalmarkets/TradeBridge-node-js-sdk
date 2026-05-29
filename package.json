@@ -1,0 +1,12 @@
+{
+  "name": "tradebridge-node-js-sdk-main",
+  "version": "1.0.0",
+  "description": "Node.js SDK for TradeBridge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/example/Example.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
